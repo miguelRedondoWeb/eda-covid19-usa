@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Los datos procesados se pueden regenerar.
+data/processed/*
+!data/processed/.gitkeep
+
